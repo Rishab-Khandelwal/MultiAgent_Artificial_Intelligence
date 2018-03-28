@@ -1,0 +1,9 @@
+Estimated Time Spent on the homework = 23 hours
+
+Evaluation function for the 1st question :
+For this question, I calculated for the next state the following : the number of power capsules , the nearest ghost distance , nearest food distance, and the total Scared time and the nearest Pallet distance, and number of food.
+Our score would decrease if the nearest Food distance increases , therefore I have taken the reciprocal of its value.Also if the nearest Ghost Distance is more then my function should evaluate higher and vice versa.Also if the total Scared time is more then the evaluation function should return a higher score since the ghost would be scared for a larger amount of time. Also if there are more number of power pellets then our evaluation function should return a higher score.Also if the nearest pallet distance is more then our evaluation function should return and lower score and a higher score if it is less.
+
+For the evaluation of the 5th question too I followed a similar analysis that is , I calculated for the next state the following : the number of power capsules , the nearest ghost distance , nearest food distance, and the total Scared time and the nearest Pallet distance, and number of food.
+Our score would decrease if the nearest Food distance increases , therefore I have taken the reciprocal of its value.Also if the nearest Ghost Distance is more then my function should evaluate higher and vice versa.Also if the total Scared time is more then the evaluation function should return a higher score since the ghost would be scared for a larger amount of time. Also if there are more number of power pellets then our evaluation function should return a higher score.Also if the nearest pallet distance is more then our evaluation function should return and lower score and a higher score if it is less.
+
